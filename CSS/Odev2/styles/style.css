@@ -1,0 +1,31 @@
+.logo-div{
+    width: 354px;
+    height: 116px;
+    margin: auto;
+}
+
+table{
+    margin: auto;
+    background-color: #EEEEEE;
+    width: 90%;
+}
+
+td{
+    text-align: center;
+}
+
+.special-searches{
+    background-color: #7EE5DA;
+}
+
+.info{
+    background-color: #70CCC2;
+}
+
+.get-updates{
+    background-color: #62B3AA;
+}
+
+footer{
+    text-align: center;
+}
